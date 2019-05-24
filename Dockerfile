@@ -18,7 +18,7 @@ ARG COIN_NAME=cryptoyen
 ARG TARDAEMON=https://cryptoyen.icu/wallet/ubuntu16-daemon.tar.gz
 ARG TARDB=${COIN_NAME}-database.tar.gz
 
-ENV port=29850
+ENV port=29950
 ENV masternodeprivkey=xxxxxxxxxxxxxxxxxx
 ENV ip==x.x.x.x
 
